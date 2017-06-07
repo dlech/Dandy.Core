@@ -1,0 +1,27 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Core
+  name: Core
+  href: api/Core.html
+  commentId: N:Core
+  fullName: Core
+  nameWithType: Core
+- uid: Core.Unit
+  name: Unit
+  href: api/Core.Unit.html
+  commentId: T:Core.Unit
+  fullName: Core.Unit
+  nameWithType: Unit
+- uid: Core.Unit.Value
+  name: Value
+  href: api/Core.Unit.html#Core_Unit_Value
+  commentId: P:Core.Unit.Value
+  fullName: Core.Unit.Value
+  nameWithType: Unit.Value
+- uid: Core.Unit.Value*
+  name: Value
+  href: api/Core.Unit.html#Core_Unit_Value_
+  commentId: Overload:Core.Unit.Value
+  fullName: Core.Unit.Value
+  nameWithType: Unit.Value
