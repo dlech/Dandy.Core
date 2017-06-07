@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Core
+namespace Dandy.Core
 {
     /// <summary>
     /// Type that indicates the absence of a specific value.

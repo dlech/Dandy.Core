@@ -12,6 +12,7 @@
     <PackageLicenseUrl>https://github.com/dlech/Dandy.Core/blob/master/LICENSE.txt</PackageLicenseUrl>
     <PackageProjectUrl>http://dlech.github.io/Dandy.Core</PackageProjectUrl>
     <RepositoryUrl>https://github.com/dlech/Dandy.Core.git</RepositoryUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
