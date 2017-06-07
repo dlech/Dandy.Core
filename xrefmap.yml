@@ -25,3 +25,27 @@ references:
   commentId: Overload:Core.Unit.Value
   fullName: Core.Unit.Value
   nameWithType: Unit.Value
+- uid: Dandy.Core
+  name: Dandy.Core
+  href: api/Dandy.Core.html
+  commentId: N:Dandy.Core
+  fullName: Dandy.Core
+  nameWithType: Dandy.Core
+- uid: Dandy.Core.Unit
+  name: Unit
+  href: api/Dandy.Core.Unit.html
+  commentId: T:Dandy.Core.Unit
+  fullName: Dandy.Core.Unit
+  nameWithType: Unit
+- uid: Dandy.Core.Unit.Value
+  name: Value
+  href: api/Dandy.Core.Unit.html#Dandy_Core_Unit_Value
+  commentId: P:Dandy.Core.Unit.Value
+  fullName: Dandy.Core.Unit.Value
+  nameWithType: Unit.Value
+- uid: Dandy.Core.Unit.Value*
+  name: Value
+  href: api/Dandy.Core.Unit.html#Dandy_Core_Unit_Value_
+  commentId: Overload:Dandy.Core.Unit.Value
+  fullName: Dandy.Core.Unit.Value
+  nameWithType: Unit.Value
