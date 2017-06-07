@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.4</TargetFramework>
+    <AssemblyName>Dandy.Core</AssemblyName>
+    <RootNamespace>Dandy.Core</RootNamespace>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>dlech</Authors>
+    <Company>DandyFX</Company>
+    <Description>Common components for Dandy libraries.</Description>
+    <Copyright>2017 David Lechner</Copyright>
+    <PackageLicenseUrl>https://github.com/dlech/Dandy.Core/blob/master/LICENSE.txt</PackageLicenseUrl>
+    <PackageProjectUrl>http://dlech.github.io/Dandy.Core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/dlech/Dandy.Core.git</RepositoryUrl>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netstandard1.4\Dandy.Core.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\netstandard1.4\Dandy.Core.xml</DocumentationFile>
+  </PropertyGroup>
+
+</Project>
